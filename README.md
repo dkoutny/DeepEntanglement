@@ -1,5 +1,5 @@
 This repository provides data and supplementary material to the paper Deep learning of polarization 
-transfer in liquid crystals with application to quantum state preparation, preprint: ..............., 
+transfer in liquid crystals with application to quantum state preparation, preprint:  <a href="https://arxiv.org/abs/2205.01462">arxiv.org/abs/2205.01462</a>, 
 by Dominik Koutný, Laia Ginés, Magdalena Moczała-Dusanowska, Sven Höfling, Christian Schneider, Ana Predojević, and Miroslav Ježek.
 
 <h1>
