@@ -2,14 +2,14 @@ This repository provides data and supplementary material to the paper Deep learn
 transfer in liquid crystals with application to quantum state preparation, preprint:  <a href="https://arxiv.org/abs/2205.01462">arxiv.org/abs/2205.01462</a>, 
 by Dominik Koutný, Laia Ginés, Magdalena Moczała-Dusanowska, Sven Höfling, Christian Schneider, Ana Predojević, and Miroslav Ježek.
 
-<h1>
+<h3>
 modelConcurrence.h5
-</h1>
+</h3>
 The convolutional DNN trained to predict the concurrence independently of the quantum state and measurement.
 
-<h1>
+<h3>
 modelMI.h5
-</h1>
+</h3>
 The convolutional DNN trained to predict the mutual information independently of the quantum state and measurement.
 
 <h1>
