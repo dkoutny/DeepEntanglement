@@ -3,6 +3,21 @@ transfer in liquid crystals with application to quantum state preparation, prepr
 by Dominik Koutný, Laia Ginés, Magdalena Moczała-Dusanowska, Sven Höfling, Christian Schneider, Ana Predojević, and Miroslav Ježek.
 
 <h1>
+modelConcurrence.h5
+</h1>
+The convolutional DNN trained to predict the concurrence independently of the quantum state and measurement.
+
+<h1>
+modelMI.h5
+</h1>
+The convolutional DNN trained to predict the mutual information independently of the quantum state and measurement.
+
+<h1>
+spec_net_conc_R0-R4.zip
+</h1>
+These files contain the measurement-specific NNs. If you wish to predict the concurrence or the mutual information with either measurement-specific or measurement-independent NNs, please go through the predict_concurrence_or_MI.ipynb notebook which serves as a tutorial how to do so.
+
+<h1>
 plots.ipynb
 </h1>
 The jupyter notebook file plots.ipynb contain code to generate all the figures present in our manuscript. 
