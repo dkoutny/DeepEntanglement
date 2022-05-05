@@ -31,5 +31,6 @@ in the system of two qubits with our trained neural networks. The code contain a
 <h3>
 netTraining_measurement_specific_DNNs.py and  netTraining_meaurement_independent_DNN.py
 </h3>
+
 These python codes serve as a tool for reproducing the results for both types of neural networks.
 
