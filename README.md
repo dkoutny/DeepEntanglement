@@ -1,5 +1,4 @@
-This repository provides data and supplementary material to the paper: Deep learning of quantum entanglement from incomplete measurements, preprint:  <a href="https://arxiv.org/abs/2205.01462">arxiv.org/abs/2205.01462</a>, 
-by Dominik Koutný, Laia Ginés, Magdalena Moczała-Dusanowska, Sven Höfling, Christian Schneider, Ana Predojević, and Miroslav Ježek.
+This repository provides data and supplementary material to the paper: Deep learning of quantum entanglement from incomplete measurements, preprint:  <a href="https://arxiv.org/abs/2205.01462">arxiv.org/abs/2205.01462</a>, by Dominik Koutný, Laia Ginés, Magdalena Moczała-Dusanowska, Sven Höfling, Christian Schneider, Ana Predojević, and Miroslav Ježek.
 
 <h3>
 modelConcurrence.h5
@@ -30,5 +29,6 @@ in two-qubit systems using the trained neural networks. The code contains also t
 <h3>
 netTraining_measurement_specific_DNNs.py and netTraining_meaurement_independent_DNN.py
 </h3>
+
 These Python codes implement the training of the neural networks.
 
