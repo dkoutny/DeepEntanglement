@@ -32,3 +32,4 @@ netTraining_measurement_specific_DNNs.py and netTraining_meaurement_independent_
 
 These Python codes implement the training of the neural networks.
 
+All the codes were prepared and tested with Python 3.9.6, Numpy xxx, Matplotlib xxx, Keras 2.4.3, and Tensorflow 2.5.0.
