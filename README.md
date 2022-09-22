@@ -24,7 +24,7 @@ The Jupyter notebook plots.ipynb contains code to generate all the figures prese
 predict_concurrence_or_MI.ipynb
 </h3>
 The Jupyter notebook predict_concurrence_or_MI.ipynb contains a code for the concurrence and mutual information estimation
-in two-qubit systems using the trained neural networks. The code contains also the maximum likelihood algorithm for the comparison.
+in two, three and four-qubit systems using the trained neural networks. The code contains also the maximum likelihood and maximum likelihood maximum entropy algorithms  for the comparison.
 
 <h3>
 netTraining_measurement_specific_DNNs.py and netTraining_meaurement_independent_DNN.py
